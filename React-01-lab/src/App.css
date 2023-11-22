@@ -1,0 +1,24 @@
+body{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+
+}
+.com{
+  text-align: center;
+}
+.card{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 20px;
+}
+.p{
+  background-color: rgb(184, 134, 230);
+  border: 1px solid black;
+  text-align: center;
+}
+.v{
+  background-color: rgb(36, 35, 37);
+  border: 1px solid black;
+  text-align: center;
+}
